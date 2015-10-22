@@ -7,6 +7,7 @@ could accomplish solving the problem in an esoteric language.
 I will be attempting more of these challenges as time allows.
 
 Links:
+
 [Project Euler](https://projecteuler.net/archives)
 
 [LOLCode](http://lolcode.org/)
